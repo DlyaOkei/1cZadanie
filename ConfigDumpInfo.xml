@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="Configuration.Конфигурация" id="f95018b0-5b9c-4891-a88e-062c8dfce541" configVersion="e29b5fe83ae88f43bbb910afb488909c00000000"/>
+		<Metadata name="DataProcessor.Обработка1" id="8e7b02cf-02ec-4558-aedd-d07da3cc47b0" configVersion="97310db517ad8e4aa09240c0eb797f7d00000000"/>
+		<Metadata name="DataProcessor.Обработка1.Form.Форма" id="517e8f88-ff05-444d-bd0a-e916d8e6adef" configVersion="7c9652bc541bca449f589b15455288b400000000"/>
+		<Metadata name="DataProcessor.Обработка1.Form.Форма.Form" id="517e8f88-ff05-444d-bd0a-e916d8e6adef.0" configVersion="b46e722a8a67fa4c96005ab7df2c957200000000"/>
+		<Metadata name="Language.Русский" id="8a31c39a-585b-44b5-adae-9849ccd32e2b" configVersion="3c99380226159b49918fb61ba96d7d9200000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
